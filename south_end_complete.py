@@ -41,7 +41,7 @@
 # # Technical issues
 
 # %% [markdown]
-# `pandas 2.1.1` addes deprecation warnings to `altair` calls. If we pin `pandas==2.0.*` in `requirements.txt`, we avoid the issue.
+# `pandas 2.1.1` adds deprecation warnings to `altair` calls. If we pin `pandas==2.0.*` in `requirements.txt`, we avoid the issue.
 
 # %% [markdown]
 # # Background
